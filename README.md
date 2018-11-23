@@ -1,2 +1,2 @@
 # Experimental-repo
-*edit
+**edit
